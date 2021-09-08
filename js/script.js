@@ -4,10 +4,9 @@
 
 
 //wait for document load
-window.addEventListener('load',Initialize);
+window.addEventListener("load", initialize);
 
-function Initialize()
-{
+function initialize() {
    //bind the elements
    
    //register eventhandlers
@@ -17,12 +16,10 @@ Gebruik onderstaande functies als eventhandlers. deze functies moeten
 de class attribute van het HTML element veranderen door gebruik te maken van de
 css classes grid-item(originele toestand) en color-black(zwarte)
 */
-function ChangeColorToBlack()
-{
+function changeColorToBlack() {
    
 }
-function ResetColor()
-{
+function resetColor() {
    
 }
 
